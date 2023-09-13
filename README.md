@@ -1,6 +1,5 @@
-
+# Hola soy Genaro !!
 <div align="left">
-  <p style="font-size: 50px; margin-right: 130px;">Hola Soy Genaro!</p>
   <img src="HolaGoku.gif" width="150" height="150" alt="GIF Animado">
 </div>
 
