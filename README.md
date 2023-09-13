@@ -1,18 +1,9 @@
 <html>
 <head>
-<style>
-    .titulo{ font-size:50px;}
-    p{ 
-        margin-right: 130px;
-        }
-img {
-    margin-top: 40 px;
-}
-</style>
 <div style="display: flex; align-items: left;">
 <body>
-<p class="titulo">Hola Soy Genaro! <p>
-  <img src="HolaGoku.gif" width="150" height="150" alt="GIF Animado">
+<p style="font-size:50px; margin-right: 130px; ">Hola Soy Genaro! <p>
+  <img  src="HolaGoku.gif" width="150" height="150" alt="GIF Animado">
 </div>
   <h2> Conocimientos </h2>
   <u1> 
